@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 3179c16
+_src_path: gh:schwallergroup/copier-liac-minimal
+author_email: cedric.rossboth@epfl.ch
+author_name: Diane and Cedric
+github_org: CedricRossboth
+package_name: computational_project_ba6
+project_name: Computational project BA6
+short_description: Symbolic regression predicting spin splitting energy of transition
+    metal complexes
